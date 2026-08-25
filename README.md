@@ -37,7 +37,7 @@ This project is a conceptual design exercise for an ENGINEER 1P13 course scenari
 | Shape | Airfoil shaped, longer than 50 metres |
 | Coating | Plastic coating for corrosion resistance |
 | Weather Resistance | Resistant to corrosion, water, and temperature changes |
-| Deflection | Between 8.5 mm and 10 mm under the specified test load |
+| Deflection | Between 8.5mm and 10mm under the specified test load |
 
 ---
 
@@ -52,9 +52,9 @@ This project is a conceptual design exercise for an ENGINEER 1P13 course scenari
 ## CAD Modelling & Deflection Analysis
 
 - The blade was modelled as a solid CAD part in Autodesk Inventor, sized to the airfoil and length requirements from the design constraints.
-- Using medium carbon steel's Young's modulus of 240 GPa, deflection was calculated at several trial thicknesses, from 150 mm down to 15 mm, to narrow in on the range meeting the 8.5 mm to 10 mm deflection requirement.
-- Further trials between 30 mm and 15 mm identified 25 mm as the thickness meeting this constraint, and this was confirmed through a Granta EduPack simulation with the wider end of the blade fixed.
-- The simulation concluded a maximum deflection of 9.435 mm at a thickness of 25 mm, falling within the required range.
+- Using medium carbon steel's Young's modulus of 240 GPa, deflection was calculated at several trial thicknesses, from 150mm down to 15mm, to narrow in on the range meeting the 8.5mm to 10mm deflection requirement.
+- Further trials between 30mm and 15mm identified 25mm as the thickness meeting this constraint, and this was confirmed through a Granta EduPack simulation with the wider end of the blade fixed.
+- The simulation concluded a maximum deflection of 9.435mm at a thickness of 25mm, falling within the required range.
 
 <p align="center">
 <img src="Media/CAD_Wind_Turbine_Blade.jpg" alt="CAD Model Wind Turbine Blade" width="500"><br>
@@ -77,7 +77,7 @@ This project is a conceptual design exercise for an ENGINEER 1P13 course scenari
 ## Results
 
 - Medium carbon steel was selected as the final blade material, meeting the project's requirements for durability, corrosion resistance, and long term environmental impact.
-- A blade thickness of 25 mm satisfied the deflection constraint, with the deflection simulation confirming a maximum deflection of 9.435 mm.
+- A blade thickness of 25mm satisfied the deflection constraint, with the deflection simulation confirming a maximum deflection of 9.435mm.
 - The final design met all specified constraints on weight, shape, weather resistance, and structural deflection for the wind farm scenario.
 
 ---
