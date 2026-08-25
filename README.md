@@ -62,7 +62,7 @@ This project is a conceptual design exercise for an ENGINEER 1P13 course scenari
 </p>
 
 <p align="center">
-  <img src="Media/CAD_Front_of_End_Blade_Model.jpg" width="435">
+  <img src="Media/CAD_Front_of_End_Blade_Model.jpg" width="437">
   <img src="Media/CAD_Back_of_End_Blade_Model.jpg" width="430">
 </p>
 <p align="center"><em>CAD Model of Front/Back of the End of Wind Turbine Blade in Autodesk Inventor.</em></p>
